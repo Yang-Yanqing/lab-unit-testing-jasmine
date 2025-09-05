@@ -13,7 +13,7 @@ describe("Iteration 2", () => {
           expect(add.length).toBe(2);
       });
 
-      it("should return the sum of the two numbers", () => {
+      it("should return the divide of the two numbers", () => {
          expect(divide(2, 1)).toEqual(2);
          expect(divide(9, 3)).toEqual(3);
          expect(divide(100, 50)).toEqual(2);
