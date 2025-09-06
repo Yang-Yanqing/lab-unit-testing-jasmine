@@ -8,4 +8,3 @@ function add (numOne, numTwo) {
     return numOne + numTwo;
 }
 
-add ('3',9) ;
